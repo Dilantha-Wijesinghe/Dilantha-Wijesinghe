@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilantha-wijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dilantha-wijesinghe" /> </p>
 
