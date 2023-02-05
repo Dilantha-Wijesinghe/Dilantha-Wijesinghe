@@ -61,11 +61,11 @@
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilantha-wijesinghe" alt="dilantha-wijesinghe" /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilantha-wijesinghe" alt="dilantha-wijesinghe" /></a> </p> 
 <br>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api?username=dilantha-wijesinghe&show_icons=true&locale=en" alt="dilantha-wijesinghe" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=dilantha-wijesinghe&show_icons=true&locale=en" alt="dilantha-wijesinghe" /></p>
 <br>
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilantha-wijesinghe&" alt="dilantha-wijesinghe" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dilantha-wijesinghe&" alt="dilantha-wijesinghe" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilantha-wijesinghe&show_icons=true&locale=en&layout=compact" alt="dilantha-wijesinghe" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dilantha-wijesinghe&show_icons=true&locale=en&layout=compact" alt="dilantha-wijesinghe" /></p>
 <br>
