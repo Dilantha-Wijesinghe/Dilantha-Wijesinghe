@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilantha-wijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dilantha-wijesinghe" /> </p>
 
@@ -61,9 +61,10 @@
 <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilantha-wijesinghe" alt="dilantha-wijesinghe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilantha-wijesinghe" alt="dilantha-wijesinghe" /></a> </p> 
+<br>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api?username=dilantha-wijesinghe&show_icons=true&locale=en" alt="dilantha-wijesinghe" /></p>
-
+<br>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilantha-wijesinghe&" alt="dilantha-wijesinghe" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilantha-wijesinghe&show_icons=true&locale=en&layout=compact" alt="dilantha-wijesinghe" /></p>
