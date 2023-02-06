@@ -1,6 +1,7 @@
 
 
-<img align="right" alt="Coding" width="100%" src="https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/main/ezgif.com-gif-make1r.gif">
+<img align="center" alt="Coding" width="100%" src="https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/main/gif2.gif">
+
 
 <h1 align="center">Hi,<br>I'm Dilantha Wijesinghe</h1>
 <h3 align="center">A passionate Fullstack Developer<br>from Sri Lanka</h3>
