@@ -10,19 +10,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilantha-wijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dilantha-wijesinghe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilantha-wijesinghe&label=Profile%20views&color=f438a0&style=flat" alt="dilantha-wijesinghe" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/dilanthawije" target="blank"><img src="https://img.shields.io/twitter/follow/dilanthawije?logo=twitter&style=for-the-badge" alt="dilanthawije" /></a> </p>
 
-- 🌱 I’m currently learning **MERN and Unreal Engine**
+
+- 🌱 I’m currently learning **the MERN stack and Unreal Engine**
+
+- 👨‍💻 All of my projects are available at [https://github.com/dilantha-wijesinghe](https://github.com/dilantha-wijesinghe)
 
 - 💬 Ask me about **react js, vite, Tailwind CSS**
 
-- 📫 How to reach me **wdilantha66@gmail.com**
+- 📫 You can reach me via **wdilantha66@gmail.com**
 
-- ⚡ Fun fact **Dedication and hard work pays off in the end!**
+- ⚡ Fun fact: **I love games!**
+<br>
 
 <h3 align="left" style="color:red;">Connect with me:</h3>
 <br>
@@ -60,15 +63,22 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 <br>
-<br>
-<br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilantha-wijesinghe" alt="dilantha-wijesinghe" /></a> </p> 
-<br>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=dilantha-wijesinghe&show_icons=true&locale=en" alt="dilantha-wijesinghe" /></p>
-<br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=dilantha-wijesinghe&" alt="dilantha-wijesinghe" /></p>
-<br>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dilantha-wijesinghe&show_icons=true&locale=en&layout=compact" alt="dilantha-wijesinghe" /></p>
-<br>
+
+
+
+<div align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilantha-wijesinghe&theme=nightowl&hide_border=true" alt="dilantha-wijesinghe" align="center" height="150px" />
+  
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilantha-wijesinghe&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="dilantha-wijesinghe" /> -->
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilantha-wijesinghe&theme=nightowl&hide_border=true&show_icons=true&locale=en&layout=compact" alt="dilantha-wijesinghe" height="150px" />
+  
+</div>
+
+<br/>
+<br/>
+
+[![An image of @dilanthawijesinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dilanthawijesinghe)](https://holopin.io/@dilanthawijesinghe)
