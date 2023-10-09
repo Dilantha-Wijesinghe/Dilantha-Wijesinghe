@@ -2,16 +2,16 @@
   <img height="162" src="https://i.giphy.com/media/xWMPYx55WNhX136T0V/giphy.webp"  />
 </div>
 
-###
 
+<samp>
 <h2 align="center">Hi there, I'm Dilantha</h2>
+</samp>
 
-###
-
+<samp>
 <p align="center">A Software Engineering Enthusiast :)</p>
+</samp>
 
-###
-
+####
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
   <img width="20" />
