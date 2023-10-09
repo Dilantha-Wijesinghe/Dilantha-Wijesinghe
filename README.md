@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/output/github-contribution-grid-snake.svg)
 
 ###
