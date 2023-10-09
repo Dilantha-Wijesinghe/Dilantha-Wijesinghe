@@ -27,3 +27,20 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Dilantha-Wijesinghe/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilantha-Wijesinghe&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dilantha-Wijesinghe&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/snake.svg" alt="Snake animation" />
+
+###
