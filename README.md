@@ -15,6 +15,18 @@
 
 <br>
 
+<p align="center">
+     <samp>
+       <a href="https://linkedin.com/wasatht" target="_blank">LinkedIn</a> .
+       <a href="https://www.wasath.me" target="_blank">Portfolio</a> .
+       <a href="https://instagram.com/wasath.theekshana" target="_blank">Reels</a> .
+       <a href="https://www.youtube.com/channel/UCyp6WVufUctZXAtP9D1Keuw" target="_blank">Youtube</a> .
+       <a href="https://discordapp.com/users/Wasaaa#0743">Discord</a> 
+     </samp>
+    </p>
+
+<br>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dilantha-Wijesinghe/count.svg?"  />
 </div>
@@ -45,10 +57,12 @@
 </div>
 
  <br>
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/>
+
+ <div align="center">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br><br>
 
 [![An image of @dilanthawijesinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dilanthawijesinghe)](https://holopin.io/@dilanthawijesinghe)
 <br/><br/><br/>
