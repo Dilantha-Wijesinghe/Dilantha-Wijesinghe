@@ -41,6 +41,10 @@
 
 ###
 
-![snake gif](https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/output/github-contribution-grid-snake-dark.svg)
+
+ <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
 
 ###
