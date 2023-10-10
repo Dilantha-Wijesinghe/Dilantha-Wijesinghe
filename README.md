@@ -39,12 +39,18 @@
   <img src="https://streak-stats.demolab.com?user=Dilantha-Wijesinghe&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+
 
 
  <br>
+ 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 
-###
+
+<br>
+
+[![An image of @dilanthawijesinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dilanthawijesinghe)](https://holopin.io/@dilanthawijesinghe)
+<br/><br/><br/>
+
