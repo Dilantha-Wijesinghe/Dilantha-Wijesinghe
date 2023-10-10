@@ -17,11 +17,11 @@
 
 <p align="center">
      <samp>
-       <a href="https://linkedin.com/wasatht" target="_blank">LinkedIn</a> .
-       <a href="https://www.wasath.me" target="_blank">Portfolio</a> .
-       <a href="https://instagram.com/wasath.theekshana" target="_blank">Reels</a> .
-       <a href="https://www.youtube.com/channel/UCyp6WVufUctZXAtP9D1Keuw" target="_blank">Youtube</a> .
-       <a href="https://discordapp.com/users/Wasaaa#0743">Discord</a> 
+       <a href="https://www.linkedin.com/in/dilantha-wijesinghe-a60a5024a/" target="_blank">LinkedIn</a> .
+       <a href="https://www.wdilantha.me" target="_blank">Portfolio</a> .
+       <a href="https://instagram.com/dilantha._" target="_blank">Instagram</a> .
+       <a href="https://twitter.com/DilanthaWije" target="_blank">Twitter</a> .
+       <a href="https://discordapp.com/users/653418961676926988">Discord</a> 
      </samp>
     </p>
 
