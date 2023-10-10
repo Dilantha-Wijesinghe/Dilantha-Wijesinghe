@@ -41,6 +41,6 @@
 
 ###
 
-![snake gif](https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Dilantha-Wijesinghe/Dilantha-Wijesinghe/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
